@@ -1,2 +1,2 @@
-# my-first-project
-My python programming codes
+#CODSOFT_TASK1
+PYTHON INTERNSHIP - TASK 1
